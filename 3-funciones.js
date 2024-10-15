@@ -1,4 +1,4 @@
-// 3-funciones.js
+// 3-funciones.js -
 
 // 1. Tu primera función
 // 1.1 Escribe una función llamada `despedir` que imprima "Adiós" en la consola.
